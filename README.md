@@ -69,7 +69,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/cleberfc23/cleberfc23/output/snake.svg" alt="Snake animation" />
-
-###
