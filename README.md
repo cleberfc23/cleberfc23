@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cleber F. Carvalho</h1>
 <h3 align="center">"I am just a Latin American boy from Brazil "</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cleberfc23&label=Profile%20views&color=0e75b6&style=flat" alt="cleberfc23" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,5 +16,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleberfc23&show_icons=true&locale=en" alt="cleberfc23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleberfc23&" alt="cleberfc23" /></p>
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cleberfc23&label=Profile%20views&color=0e75b6&style=flat" alt="cleberfc23" /> </p>
+
 
 
