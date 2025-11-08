@@ -28,4 +28,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cleberfc23/cleberfc23/output/pacman-contribution-graph.svg">
 </picture>
 
-###
