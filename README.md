@@ -1,6 +1,7 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-<h1 align="left">Olá!</h1>
-<h1 align="left">こんにちわ！</h1>
+<h1 align="left">Hey! What's up? ☀️</h1>
+<p align="left">Olá! 🇧🇷</p>
+<p align="left">こんにちわ！ 🇯🇵</p>
+<p align="left">Hola！ 🇪🇸</p>
 
 ###
 
