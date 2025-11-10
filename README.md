@@ -1,16 +1,9 @@
-<h1 align="left">Hey! What's up? ☀️</h1>
+<h1 align="left">Hey! What's up? ☀️ I'm Cleber F. Carvalho! 🇧🇷 </h1>
 <p align="left">Olá! 🇧🇷</p>
 <p align="left">こんにちわ！ 🇯🇵</p>
 <p align="left">Hola！ 🇪🇸</p>
 
 ###
-
-<p align="center">
-  <span style="font-size: 28; font-weight: bold;">
-    # I'm Cleber F. Carvalho! 🇧🇷
-  </span>
-</p>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cleberfc23) 
