@@ -10,7 +10,6 @@
     I'm Cleber F. Carvalho! 🇧🇷
   </span>
 </p>
-###
 
 
 ## 🌐 Socials:
