@@ -1,4 +1,4 @@
-<h1 align="left">Hey! What's up? ☀️ I'm Cleber F. Carvalho! 🇧🇷 </h1>
+<h1 align="left">Hey! What's up? I'm Cleber F. Carvalho! ☀️🇧🇷 </h1>
 <p align="left">Olá! 🇧🇷</p>
 <p align="left">こんにちわ！ 🇯🇵</p>
 <p align="left">Hola！ 🇪🇸</p>
