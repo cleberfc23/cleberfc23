@@ -6,7 +6,7 @@
 ###
 
 <p align="center">
-  <span style="font-size: 28px; font-weight: bold;">
+  <span style="font-size: 28; font-weight: bold;">
     # I'm Cleber F. Carvalho! 🇧🇷
   </span>
 </p>
