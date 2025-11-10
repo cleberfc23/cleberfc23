@@ -5,8 +5,11 @@
 
 ###
 
-<p align="left">I'm Cleber F. Carvalho! 🇧🇷</p>
-
+<p align="center">
+  <span style="font-size: 28px; font-weight: bold;">
+    I'm Cleber F. Carvalho! 🇧🇷
+  </span>
+</p>
 ###
 
 
