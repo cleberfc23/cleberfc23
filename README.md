@@ -5,7 +5,7 @@ Machine Learning Engineer with a strong software engineering background, focused
 </p>
 
 <p align="left">
-Olá 🇧🇷 · こんにちは 🇯🇵 · Hola 🇪🇸 · Cześć 🇵🇱
+Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! 🇵🇱
 </p>
 
 
