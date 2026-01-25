@@ -1,7 +1,13 @@
-<h1 align="left">Hey! What's up? I'm Cleber F. Carvalho! ☀️🇧🇷 </h1>
-<p align="left">Olá! 🇧🇷</p>
-<p align="left">こんにちわ！ 🇯🇵</p>
-<p align="left">Hola！ 🇪🇸</p>
+<h1 align="left">Hi! I'm Cleber F. Carvalho 👋</h1>
+
+<p align="left">
+Machine Learning Engineer with a strong software engineering background, focused on applied AI, time-series forecasting, and building robust ML systems.
+</p>
+
+<p align="left">
+Olá 🇧🇷 · こんにちは 🇯🇵 · Hola 🇪🇸 · Cześć 🇵🇱
+</p>
+
 
 ###
 
