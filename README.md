@@ -88,6 +88,15 @@ Olá 🇧🇷 · こんにちは 🇯🇵 · Hola 🇪🇸 · Cześć 🇵🇱
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_title=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+
+
+![](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=grey)
+
+
+
 
 [![](https://visitcount.itsvg.in/api?id=cleberfc23&icon=0&color=0)](https://visitcount.itsvg.in)
 
