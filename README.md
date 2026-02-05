@@ -71,7 +71,8 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-2C3E50?style=flat&logo=android&logoColor=white)
 
-- Introduction to Design 3
+- Kyoto University of Advanced Science (KUAS) - 京都先端科学大学
+-- Introduction to Design 3
 
 ---
 
