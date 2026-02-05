@@ -72,7 +72,7 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 ![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-2C3E50?style=flat&logo=android&logoColor=white)
 
 - Kyoto University of Advanced Science 京都先端科学大学
-  - Introduction to Design 3
+  - Introduction to Design III (Design Thinking & Prototyping)
 
 ---
 
