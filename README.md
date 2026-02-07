@@ -41,7 +41,7 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 - Generalization Analysis  
 - Data Leakage Prevention  
 - Experiment Design  
-- Evaluation Metrics (MAE, RMSE, NRMSE)
+- Evaluation Metrics
 
 ---
 
