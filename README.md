@@ -1,7 +1,8 @@
 <h1 align="left">Hi! I'm Cleber F. Carvalho</h1>
 
 <p align="left">
-Machine Learning Engineer with a strong software engineering background, focused on applied AI, time-series forecasting, and building robust ML systems.
+Machine Learning Engineer with a strong software engineering background, working at the intersection of applied AI, data science, and time-series forecasting to build reliable, production-ready ML systems.
+
 </p>
 
 <p align="left">
