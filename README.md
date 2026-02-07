@@ -65,15 +65,21 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 ---
 
 ### 🔬 Research & Tooling
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-2C3E50?style=flat&logo=android&logoColor=white)
 
-- Kyoto University of Advanced Science 京都先端科学大学
-  - Introduction to Design III (Design Thinking & Prototyping)
-
+- **Kyoto University of Advanced Science 京都先端科学大学**
+  - Algorithmic Thinking and Programming with Python  
+  - Information Literacy  
+  - Introduction to C Programming  
+  - Introduction to Design III (MIT App Inventor)  
+  - Introduction to Numeric Analysis Programming (MATLAB)  
+  - System Programming with C
+    
 ---
 
 ### 📱 Mobile & Product
@@ -82,7 +88,8 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 - Jetpack Compose  
-- MVVM Architecture  
+- MVVM Architecture
+- IoT
 
 
 ---
