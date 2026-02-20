@@ -145,4 +145,4 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 
 ---
 
-⭐ Always learning, always building 🚀
+🌟 Always learning, always building 🚀
