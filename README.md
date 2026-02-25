@@ -1,9 +1,9 @@
 <h1 align="left">Hi! I'm Cleber F. Carvalho</h1>
 
 <p align="left">
-Machine Learning Engineer with a strong software engineering background, working at the intersection of applied AI, data science, time-series forecasting, and Large Language Model systems to build reliable, production-ready ML and AI applications.
+Machine Learning Engineer with software engineering background, working at the intersection of applied AI, data science, time-series forecasting, and Large Language Model systems to build reliable, production-ready ML applications.
 
-Currently developing applied AI systems under <strong>Iskra Labs</strong>, an independent AI engineering and research laboratory focused on structured validation, reliability, and production-oriented machine learning.
+Projects are developed under <strong>Iskra Labs</strong>, an independent AI engineering and research laboratory focused on structured validation, reliability, and production-oriented system design.
 </p>
 
 <p align="left">
