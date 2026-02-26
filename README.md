@@ -12,16 +12,16 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 
 ---
 
-### 🌐 Follow me!
+### Follow me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cleberfc23)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ---
 
-### 🧑‍💻 Programming & Engineering
+### Programming & Engineering
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -40,7 +40,7 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 
 ---
 
-### 🤖 Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
@@ -57,7 +57,7 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 
 ---
 
-### 🧠 Large Language Models & AI Systems
+### Large Language Models & AI Systems
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
@@ -79,7 +79,7 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 
 ---
 
-### 🗄️ Databases & Query Systems
+### Databases & Query Systems
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -91,7 +91,7 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 
 ---
 
-### 📊 Data & Scientific Computing
+### Data & Scientific Computing
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
@@ -104,7 +104,7 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 
 ---
 
-### 📈 Visualization & Analysis
+### Visualization & Analysis
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%230072B2.svg?style=flat)
@@ -112,7 +112,7 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 
 ---
 
-### 🔬 Research & Tooling
+### Research & Tooling
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
@@ -127,7 +127,7 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 
 ---
 
-### 📱 Mobile & Product
+### Mobile & Product
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
