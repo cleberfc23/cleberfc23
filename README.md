@@ -19,7 +19,6 @@ Olá! 🇧🇷 · こんにちは！ 🇯🇵 · ¡Hola! 🇪🇸 · Cześć! �
 
 ## Tech Stack
 
----
 
 ### Programming & Engineering
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
