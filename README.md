@@ -18,6 +18,15 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 
 
 
+
+---
+## examples
+
+[![Clinical Evidence Navigator](https://github-readme-stats.vercel.app/api/pin/?username=cleberfc23&repo=clinical-evidence-navigator)](https://github.com/cleberfc23/clinical-evidence-navigator)
+
+[![Clinical SQL Analytics](https://github-readme-stats.vercel.app/api/pin/?username=cleberfc23&repo=clinical-sql-analytics-diabetes-readmissions)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
+
+
 ---
 ## Featured Projects
 
