@@ -45,7 +45,7 @@ Data analysis pipeline exploring hospital readmission patterns in diabetes patie
 - Enables data driven strategies to improve patient outcomes and reduce healthcare system burden.
 
 **Tech:**
-Python · Pandas · SQLite
+SQL · Python · Pandas · SQLite
 
 ---
 
