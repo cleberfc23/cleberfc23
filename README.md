@@ -2,10 +2,8 @@
 
 ### Machine Learning Engineer ∙ AI Systems ∙ LLM Applications
 
-
-
 <p align="left">
-Machine Learning Engineer with software engineering background, working at the intersection of applied AI, data science, time-series forecasting, and Large Language Model systems to build reliable, production-ready ML applications.
+Building reliable AI systems and ML pipelines across applied AI, time series forecasting, and Large Language Model applications, with an engineering background in software and mechatronics.
 
 Projects are developed under <strong>Iskra Labs</strong>, an independent AI engineering and research laboratory focused on reliable systems and structured machine learning practices.
 </p>
