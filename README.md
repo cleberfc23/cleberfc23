@@ -7,7 +7,7 @@ Projects are developed under <strong>Iskra Labs</strong>, an independent AI engi
 </p>
 
 <p align="left">
-Olá 🇧🇷 · Cześć 🇵🇱 · ¡Hola 🇪🇸 · こんにちは 🇯🇵
+Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯🇵
 </p>
 
 ### Connect
@@ -16,7 +16,7 @@ Olá 🇧🇷 · Cześć 🇵🇱 · ¡Hola 🇪🇸 · こんにちは 🇯🇵
 
 ---
 
-## Featured Projects
+## Selected AI systems and data projects.
 
 [![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-blue)](https://github.com/cleberfc23/clinical-evidence-navigator)
 
