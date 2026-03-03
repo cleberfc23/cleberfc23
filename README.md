@@ -19,10 +19,14 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 
 ---
 ## Featured Projects
-
+B7410E
 [![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-6B1F2B)](https://github.com/cleberfc23/clinical-evidence-navigator)
 [![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-C05600)](https://github.com/cleberfc23/clinical-evidence-navigator)
 [![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-1B5E20)](https://github.com/cleberfc23/clinical-evidence-navigator)
+[![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-B7410E)](https://github.com/cleberfc23/clinical-evidence-navigator)
+[![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-6B1F2B)](https://github.com/cleberfc23/clinical-evidence-navigator)
+[![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-8C4A2F)](https://github.com/cleberfc23/clinical-evidence-navigator)
+
 
 
 - **Application:** Evidence grounded Retrieval Augmented Generation system for querying clinical guidelines and retrieving citation backed answers.
