@@ -26,7 +26,7 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 
 ---
 
-[![Clinical SQL Analytics](https://img.shields.io/badge/SQL-Clinical_Readmission_Analysis-B7410E)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
+[![Clinical SQL Analytics](https://img.shields.io/badge/SQL-Clinical_Readmission_Analysis-1F4E79)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
 - **Application:** Analytical SQL and Python pipeline exploring hospital readmission patterns in diabetes patients using large scale clinical datasets.
 - **Impact:** Enables better understanding of hospital readmissions and supports data driven strategies to improve patient outcomes and reduce healthcare system burden.
 
