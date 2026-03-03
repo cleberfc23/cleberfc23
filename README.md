@@ -52,13 +52,3 @@ Pandas · NumPy · MLflow · analytical SQL
 Git · Streamlit · Jupyter · Docker
 
 ---
-
-## Engineering Focus
-
-- Production-oriented ML systems  
-- Reproducible machine learning pipelines  
-- Robust model validation  
-- Leakage-aware experimentation  
-- Applied AI systems
-
----
