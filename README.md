@@ -13,9 +13,6 @@ Projects are developed under <b>Iskra Labs</b>, an independent AI engineering an
 Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯🇵
 </p>
 
-### Connect 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cleberfc23)
-
 ---
 ## Selected Work
 
