@@ -27,7 +27,7 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 **Impact**
 - Improves access to trusted medical knowledge and supports safer AI assisted decision support in healthcare.
 
-**Tech**
+**Tech:**
 LangChain · LangGraph · Vector Search · Streamlit
 
 ---
@@ -42,7 +42,7 @@ Data analysis pipeline exploring hospital readmission patterns in diabetes patie
 **Impact**
 - Enables data driven strategies to improve patient outcomes and reduce healthcare system burden.
 
-**Tech**
+**Tech:**
 SQL · Python · Pandas · SQLite
 
 ---
