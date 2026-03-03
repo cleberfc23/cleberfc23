@@ -20,6 +20,7 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 ## Featured Projects
 
 [![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-B7410E)](https://github.com/cleberfc23/clinical-evidence-navigator)
+
 **Application**
 - Evidence grounded retrieval system for medical guidelines with citation backed responses.
 
@@ -32,6 +33,7 @@ LangChain · LangGraph · Vector Search · Streamlit
 ---
 
 [![Clinical SQL Analytics](https://img.shields.io/badge/SQL-Clinical_Readmission_Analysis-1F4E79)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
+
 Data analysis pipeline exploring hospital readmission patterns in diabetes patients.
 
 **Application**
