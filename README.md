@@ -16,30 +16,32 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 ### Connect 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cleberfc23)
 
-
-
-
----
-## examples
-## Featured Projects
-
-[![Clinical Evidence Navigator](https://github-readme-stats.vercel.app/api/pin/?username=cleberfc23&repo=clinical-evidence-navigator&theme=github_dark)](https://github.com/cleberfc23/clinical-evidence-navigator)
-
-[![Clinical SQL Analytics](https://github-readme-stats.vercel.app/api/pin/?username=cleberfc23&repo=clinical-sql-analytics-diabetes-readmissions&theme=github_dark)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)>
-
-
 ---
 ## Featured Projects
 
 [![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-B7410E)](https://github.com/cleberfc23/clinical-evidence-navigator)
-- **Application:** Evidence grounded Retrieval Augmented Generation system for querying clinical guidelines and retrieving citation backed answers.
-- **Impact:** Supports faster access to trusted medical knowledge and promotes safer AI assisted decision support in healthcare environments.
+**Application**
+- Evidence grounded retrieval system for medical guidelines with citation backed responses.
+
+**Impact**
+- Improves access to trusted medical knowledge and supports safer AI assisted decision support in healthcare.
+
+**Tech**
+LangChain · LangGraph · Vector Search · Streamlit
 
 ---
 
 [![Clinical SQL Analytics](https://img.shields.io/badge/SQL-Clinical_Readmission_Analysis-1F4E79)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
-- **Application:** Analytical SQL and Python pipeline exploring hospital readmission patterns in diabetes patients using large scale clinical datasets.
-- **Impact:** Enables better understanding of hospital readmissions and supports data driven strategies to improve patient outcomes and reduce healthcare system burden.
+Data analysis pipeline exploring hospital readmission patterns in diabetes patients.
+
+**Application**
+- SQL and Python workflow analyzing large scale clinical datasets to identify readmission patterns.
+
+**Impact**
+- Enables data driven strategies to improve patient outcomes and reduce healthcare system burden.
+
+**Tech**
+SQL · Python · Pandas · SQLite
 
 ---
 
