@@ -21,6 +21,8 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 
 [![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-B7410E)](https://github.com/cleberfc23/clinical-evidence-navigator)
 
+AI system for querying clinical guidelines using Retrieval Augmented Generation.
+
 **Application**
 - Evidence grounded retrieval system for medical guidelines with citation backed responses.
 
