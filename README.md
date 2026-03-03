@@ -15,12 +15,12 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cleberfc23)
+[![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-black)](https://github.com/cleberfc23/clinical-evidence-navigator)
 
 ---
 ## Featured Projects
 
-[![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-blue)](https://github.com/cleberfc23/clinical-evidence-navigator)
+[![Clinical SQL Analytics](https://img.shields.io/badge/SQL-Clinical_Readmission_Analysis-black)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
 
 - **Application:** Evidence grounded Retrieval Augmented Generation system for querying clinical guidelines and retrieving citation backed answers.
 - **Impact:** Supports faster access to trusted medical knowledge and promotes safer AI assisted decision support in healthcare environments.
