@@ -1,6 +1,6 @@
 <h1 align="left">Hi! I'm Cleber F. Carvalho</h1>
 
-### Machine Learning Engineer ∙ AI Systems ∙ LLM Applications
+## Machine Learning Engineer ∙ AI Systems ∙ LLM Applications
 
 <p align="left">
 Building robust AI systems and ML pipelines across applied AI, time series forecasting, and Large Language Model applications, with an engineering background in software and mechatronics.
