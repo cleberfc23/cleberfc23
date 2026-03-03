@@ -49,7 +49,7 @@ RAG · vector search · LLM evaluation
 Pandas · NumPy · MLflow · analytical SQL
 
 **Tools**  
-Git · Streamlit · Jupyter · Docker (learning)
+Git · Streamlit · Jupyter · Docker
 
 ---
 
