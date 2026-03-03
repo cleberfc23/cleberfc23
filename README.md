@@ -15,19 +15,19 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 
 ### Connect
 
-[![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-black)](https://github.com/cleberfc23/clinical-evidence-navigator)
+
 
 ---
 ## Featured Projects
 
-[![Clinical SQL Analytics](https://img.shields.io/badge/SQL-Clinical_Readmission_Analysis-black)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
+[![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-black)](https://github.com/cleberfc23/clinical-evidence-navigator)
 
 - **Application:** Evidence grounded Retrieval Augmented Generation system for querying clinical guidelines and retrieving citation backed answers.
 - **Impact:** Supports faster access to trusted medical knowledge and promotes safer AI assisted decision support in healthcare environments.
 
 ---
 
-[![Clinical SQL Analytics](https://img.shields.io/badge/SQL-Clinical_Readmission_Analysis-green)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
+[![Clinical SQL Analytics](https://img.shields.io/badge/SQL-Clinical_Readmission_Analysis-black)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
 
 - **Application:** Analytical SQL and Python pipeline exploring hospital readmission patterns in diabetes patients using large scale clinical datasets.
 - **Impact:** Enables better understanding of hospital readmissions and supports data driven strategies to improve patient outcomes and reduce healthcare system burden.
