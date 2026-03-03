@@ -16,8 +16,9 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 ---
 ## Selected Work
 
+[![Project](https://img.shields.io/badge/Project-Clinical%20Evidence%20Navigator-B7410E?style=for-the-badge)](https://github.com/cleberfc23/clinical-evidence-navigator)
 
-[![Project](https://img.shields.io/badge/Project-Clinical%20Evidence%20Navigator-B7410E?style=for-the-badge)](link)
+[![Project](https://img.shields.io/badge/Project-Clinical%20Readmission%20Analysis-1F4E79?style=for-the-badge)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
 
 [![Clinical Evidence Navigator](https://img.shields.io/badge/Project-Clinical_Evidence_Navigator-B7410E)](https://github.com/cleberfc23/clinical-evidence-navigator)  
 AI system for querying clinical guidelines using Retrieval Augmented Generation.
