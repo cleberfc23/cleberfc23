@@ -17,9 +17,9 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cleberfc23)
 
 ---
-## Featured Projects
+## Selected Work
 
-[![Clinical Evidence Navigator](https://img.shields.io/badge/RAG-Clinical_Evidence_Navigator-B7410E)](https://github.com/cleberfc23/clinical-evidence-navigator)
+[![Clinical Evidence Navigator](https://img.shields.io/badge/Project-Clinical_Evidence_Navigator-B7410E)](https://github.com/cleberfc23/clinical-evidence-navigator)
 
 AI system for querying clinical guidelines using Retrieval Augmented Generation.
 
@@ -30,11 +30,11 @@ AI system for querying clinical guidelines using Retrieval Augmented Generation.
 - Improves access to trusted medical knowledge and supports safer AI assisted decision support in healthcare.
 
 **Tech:**
-LangChain · LangGraph · Vector Search · Streamlit
+RAG · LangChain · LangGraph · Vector Search · Streamlit
 
 ---
 
-[![Clinical SQL Analytics](https://img.shields.io/badge/SQL-Clinical_Readmission_Analysis-1F4E79)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
+[![Clinical SQL Analytics](https://img.shields.io/badge/Project-Clinical_Readmission_Analysis-1F4E79)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
 
 Data analysis pipeline exploring hospital readmission patterns in diabetes patients.
 
@@ -45,7 +45,7 @@ Data analysis pipeline exploring hospital readmission patterns in diabetes patie
 - Enables data driven strategies to improve patient outcomes and reduce healthcare system burden.
 
 **Tech:**
-SQL · Python · Pandas · SQLite
+Python · Pandas · SQLite
 
 ---
 
