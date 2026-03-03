@@ -49,6 +49,9 @@ SQL · Python · Pandas · SQLite
 
 ## Core Technologies
 
+
+![Languages](https://img.shields.io/badge/Languages-Python%20·%20SQL%20·%20C%2B%2B%20·%20Java%20·%20Kotlin-1F4E79)
+
 **Languages**  
 Python · SQL · C/C++ · Java · Kotlin
 
