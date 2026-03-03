@@ -12,7 +12,7 @@ Projects are developed under <strong>Iskra Labs</strong>, an independent AI engi
 Olá 🇧🇷 · Cześć 🇵🇱 · ¡Hola 🇪🇸 · こんにちは 🇯🇵
 </p>
 
-## Connect
+# Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cleberfc23)
 
@@ -61,10 +61,3 @@ Git · Streamlit · Jupyter · Docker (learning)
 - Applied AI systems
 
 ---
-
-
-## Selected Work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cleberfc23&repo=clinical-evidence-navigator)](https://github.com/cleberfc23/clinical-evidence-navigator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cleberfc23&repo=clinical-sql-analytics-diabetes-readmissions)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
