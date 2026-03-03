@@ -1,18 +1,16 @@
 <h1 align="left">Hi! I'm Cleber F. Carvalho</h1>
 
 <p align="left">
-Machine Learning Engineer with a software engineering background building reliable AI systems, production-ready ML pipelines, and data-driven applications.
+Machine Learning Engineer with software engineering background, working at the intersection of applied AI, data science, time-series forecasting, and Large Language Model systems to build reliable, production-ready ML applications.
 
-My work focuses on applied AI, time-series forecasting, and Large Language Model systems, with strong emphasis on reproducibility, robust validation, and real-world deployment.
-
-Projects are developed under <strong>Iskra Labs</strong>, an independent AI engineering and research lab focused on reliable and transparent machine learning systems.
+Projects are developed under <strong>Iskra Labs</strong>, an independent AI engineering and research laboratory focused on reliable systems and structured machine learning practices.
 </p>
 
 <p align="left">
 Olá 🇧🇷 · Cześć 🇵🇱 · ¡Hola 🇪🇸 · こんにちは 🇯🇵
 </p>
 
-# Connect
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cleberfc23)
 
