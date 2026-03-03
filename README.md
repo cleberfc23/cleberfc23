@@ -5,7 +5,7 @@
 <p align="left">
 Building robust AI systems and ML pipelines across applied AI, time series forecasting, and Large Language Model applications, with an engineering background in software and mechatronics.
 
-Projects are developed under Iskra Labs, an independent AI engineering and research laboratory focused on structured machine learning practices and trustworthy AI systems.
+Projects are developed under <b>Iskra Labs</b>, an independent AI engineering and research laboratory focused on structured machine learning practices and trustworthy AI systems.
 
 </p>
 
