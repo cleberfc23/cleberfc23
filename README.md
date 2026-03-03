@@ -16,6 +16,8 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 ---
 ## Selected Work
 
+https://img.shields.io/badge/Project-Clinical%20Evidence%20Navigator-B7410E?style=for-the-badge 
+
 [![Clinical Evidence Navigator](https://img.shields.io/badge/Project-Clinical_Evidence_Navigator-B7410E)](https://github.com/cleberfc23/clinical-evidence-navigator)  
 AI system for querying clinical guidelines using Retrieval Augmented Generation.
 
