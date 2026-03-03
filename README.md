@@ -17,10 +17,6 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 ## Selected Work
 
 [![Project](https://img.shields.io/badge/Project-Clinical%20Evidence%20Navigator-B7410E?style=for-the-badge)](https://github.com/cleberfc23/clinical-evidence-navigator)
-
-[![Project](https://img.shields.io/badge/Project-Clinical%20Readmission%20Analysis-1F4E79?style=for-the-badge)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
-
-[![Clinical Evidence Navigator](https://img.shields.io/badge/Project-Clinical_Evidence_Navigator-B7410E)](https://github.com/cleberfc23/clinical-evidence-navigator)  
 AI system for querying clinical guidelines using Retrieval Augmented Generation.
 
 **Application**
@@ -34,7 +30,7 @@ RAG · LangChain · LangGraph · Vector Search · Streamlit
 
 ---
 
-[![Clinical SQL Analytics](https://img.shields.io/badge/Project-Clinical_Readmission_Analysis-1F4E79)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)  
+[![Project](https://img.shields.io/badge/Project-Clinical%20Readmission%20Analysis-1F4E79?style=for-the-badge)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
 Data analysis pipeline exploring hospital readmission patterns in diabetes patients.
 
 **Application**
