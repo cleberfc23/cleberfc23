@@ -13,6 +13,13 @@ Projects are developed under <b>Iskra Labs</b>, an independent AI engineering an
 Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯🇵
 </p>
 
+
+
+
+[![Clinical Evidence Navigator](https://img.shields.io/badge/AI%20System-Clinical%20Evidence%20Navigator-B7410E?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/cleberfc23/clinical-evidence-navigator)
+
+[![Clinical SQL Analytics](https://img.shields.io/badge/Data%20Analysis-Clinical%20Readmission%20Analysis-1F4E79?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)
+
 ---
 ## Selected Work
 
