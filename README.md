@@ -33,7 +33,7 @@ AI system for querying clinical guidelines using Retrieval Augmented Generation.
 [![Project](https://img.shields.io/badge/Project-Clinical%20Readmission%20Analysis-1F4E79?style=for-the-badge)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)  
 Data analysis pipeline exploring hospital readmission patterns in diabetes patients.
 
-**Application: **
+**Application:**
 SQL and Python workflow analyzing large scale clinical datasets to identify readmission patterns.
 
 **Impact:**
