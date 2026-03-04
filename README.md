@@ -19,11 +19,11 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 [![Project](https://img.shields.io/badge/Project-Clinical%20Evidence%20Navigator-B7410E?style=for-the-badge)](https://github.com/cleberfc23/clinical-evidence-navigator)  
 AI system for querying clinical guidelines using Retrieval Augmented Generation.
 
-**Application**
-- Evidence grounded retrieval system for medical guidelines with citation backed responses.
+**Application:**
+Evidence grounded retrieval system for medical guidelines with citation backed responses.
 
-**Impact**
-- Improves access to trusted medical knowledge and supports safer AI assisted decision support in healthcare.
+**Impact:**
+Improves access to trusted medical knowledge and supports safer AI assisted decision support in healthcare.
 
 **Tech:**
 RAG · LangChain · LangGraph · Vector Search · Streamlit
