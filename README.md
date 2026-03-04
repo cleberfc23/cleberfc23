@@ -44,6 +44,20 @@ SQL and Python workflow analyzing large scale clinical datasets to identify read
 
 ---
 
+[![Project](https://img.shields.io/badge/Project-Sygna%C5%82y%20Miner-B7410E?style=for-the-badge)](https://github.com/cleberfc23/sygnaly-miner)  
+NLP pipeline exploring hidden signals and emerging topics in large public text corpora.
+
+**Application:**  
+Machine learning workflow transforming unstructured text into semantic representations and discovering themes through embedding based clustering.
+
+**Impact:**  
+Enables the exploration of large scale text collections to uncover patterns, trends, and emerging signals in public information streams.
+
+**Tech:**  
+Python · NLP · Sentence Embeddings · KMeans · HDBSCAN
+
+---
+
 ## Core Technologies
 
 **Languages**  
