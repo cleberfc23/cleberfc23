@@ -19,28 +19,28 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 [![Project](https://img.shields.io/badge/Project-Clinical%20Evidence%20Navigator-B7410E?style=for-the-badge)](https://github.com/cleberfc23/clinical-evidence-navigator)  
 AI system for querying clinical guidelines using Retrieval Augmented Generation.
 
-**Application:**
- Evidence grounded retrieval system for medical guidelines with citation backed responses.
+**Application:**  
+Evidence grounded retrieval system for medical guidelines with citation backed responses.
 
-**Impact:**
- Improves access to trusted medical knowledge and supports safer AI assisted decision support in healthcare.
+**Impact:**  
+Improves access to trusted medical knowledge and supports safer AI assisted decision support in healthcare.
 
 **Tech:**
- RAG · LangChain · LangGraph · Vector Search · Streamlit
+RAG · LangChain · LangGraph · Vector Search · Streamlit
 
 ---
 
 [![Project](https://img.shields.io/badge/Project-Clinical%20Readmission%20Analysis-1F4E79?style=for-the-badge)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)  
 Data analysis pipeline exploring hospital readmission patterns in diabetes patients.
 
-**Application:**
+**Application:**  
 SQL and Python workflow analyzing large scale clinical datasets to identify readmission patterns.
 
-**Impact:**
- Enables data driven strategies to improve patient outcomes and reduce healthcare system burden.
+**Impact:**  
+Enables data driven strategies to improve patient outcomes and reduce healthcare system burden.
 
 **Tech:**
- SQL · Python · Pandas · SQLite
+SQL · Python · Pandas · SQLite
 
 ---
 
@@ -53,7 +53,7 @@ Machine learning workflow transforming unstructured text into semantic represent
 **Impact:**  
 Enables the exploration of large scale text collections to uncover patterns, trends, and emerging signals in public information streams.
 
-**Tech:**  
+**Tech:**
 Python · NLP · Sentence Embeddings · KMeans · HDBSCAN
 
 ---
