@@ -16,7 +16,7 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 ---
 ## Selected Work
 
-### <u>[Clinical Evidence Navigator](https://github.com/cleberfc23/clinical_evidence_navigator)</u>   
+### <u>[Clinical Evidence Navigator](https://github.com/cleberfc23/clinical-evidence-navigator)</u>   
 AI system for querying clinical guidelines using Retrieval Augmented Generation.
 
 **Application:**  
