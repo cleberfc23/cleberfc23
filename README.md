@@ -16,7 +16,7 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 ---
 ## Selected Work
 
-### Clinical Evidence Navigator
+### Clinical Evidence Navigator  
 AI system for querying clinical guidelines using Retrieval Augmented Generation.
 
 **Application:**  
@@ -30,7 +30,7 @@ RAG · LangChain · LangGraph · Vector Search · Streamlit
 
 ---
 
-[![Project](https://img.shields.io/badge/Project-Clinical%20Readmission%20Analysis-1F4E79?style=for-the-badge)](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)  
+### Clinical SQL Analytics Diabetes Readmissions  
 Data analysis pipeline exploring hospital readmission patterns in diabetes patients.
 
 **Application:**  
@@ -45,6 +45,7 @@ SQL · Python · Pandas · SQLite
 ---
 
 [![Project](https://img.shields.io/badge/Project-Sygna%C5%82y%20Miner-B7410E?style=for-the-badge)](https://github.com/cleberfc23/sygnaly-miner)  
+### Sygnały - Public Signals Mining  
 NLP pipeline exploring hidden signals and emerging topics in large public text corpora.
 
 **Application:**  
