@@ -10,7 +10,7 @@ Projects are developed under <b>Iskra Labs</b>, an independent AI engineering an
 </p>
 
 <p align="left">
-Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯🇵
+Olá! 🇧🇷 · Cześć! 🇵🇱 · こんにちは! 🇯🇵 · ¡Hola! 🇪🇸
 </p>
 
 ---
