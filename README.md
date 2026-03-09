@@ -31,7 +31,7 @@ RAG · LangChain · LangGraph · Vector Search · Streamlit
 
 ---
   
-### <u>[Clinical SQL Analytics Diabetes Readmissions](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)</u>  
+### <ins>[Clinical SQL Analytics Diabetes Readmissions](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)</ins>  
 Data analysis pipeline exploring hospital readmission patterns in diabetes patients.
 
 **Application:**  
@@ -45,7 +45,7 @@ SQL · Python · Pandas · SQLite
 
 ---
 
-### <u>[Sygnały - Public Signals Mining ](https://github.com/cleberfc23/sygnaly-miner)</u>  
+### <ins>[Sygnały - Public Signals Mining ](https://github.com/cleberfc23/sygnaly-miner)</ins>  
 
 NLP pipeline exploring hidden signals and emerging topics in large public text corpora.
 
