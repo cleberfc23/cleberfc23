@@ -16,14 +16,7 @@ Olá! 🇧🇷 · Cześć! 🇵🇱 · ¡Hola! 🇪🇸 · こんにちは! 🇯
 ---
 ## Selected Work
 
-### [Clinical Evidence Navigator](https://github.com/cleberfc23/clinical-evidence-navigator)    
-
-
-### <u>[Clinical Evidence Navigator](https://github.com/cleberfc23/clinical_evidence_navigator)</u>
-
-
-### <u><a href="https://github.com/cleberfc23/clinical_evidence_navigator">Clinical Evidence Navigator</a></u>
-
+### <u>[Clinical Evidence Navigator](https://github.com/cleberfc23/clinical_evidence_navigator)</u>   
 AI system for querying clinical guidelines using Retrieval Augmented Generation.
 
 **Application:**  
@@ -36,8 +29,8 @@ Improves access to trusted medical knowledge and supports safer AI assisted deci
 RAG · LangChain · LangGraph · Vector Search · Streamlit
 
 ---
-
-### Clinical SQL Analytics Diabetes Readmissions  
+  
+### <u>[Clinical SQL Analytics Diabetes Readmissions](https://github.com/cleberfc23/clinical-sql-analytics-diabetes-readmissions)</u>  
 Data analysis pipeline exploring hospital readmission patterns in diabetes patients.
 
 **Application:**  
@@ -51,8 +44,8 @@ SQL · Python · Pandas · SQLite
 
 ---
 
-[![Project](https://img.shields.io/badge/Project-Sygna%C5%82y%20Miner-B7410E?style=for-the-badge)](https://github.com/cleberfc23/sygnaly-miner)  
-### Sygnały - Public Signals Mining  
+### <u>[Sygnały - Public Signals Mining ](https://github.com/cleberfc23/sygnaly-miner)</u>  
+
 NLP pipeline exploring hidden signals and emerging topics in large public text corpora.
 
 **Application:**  
