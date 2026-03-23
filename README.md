@@ -26,7 +26,7 @@ Evidence grounded retrieval system for medical guidelines with citation backed r
 Improves access to trusted medical knowledge and supports safer AI assisted decision support in healthcare.
 
 **Tech:**
-RAG · LangChain · LangGraph · Vector Search · Streamlit
+RAG · LangChain · LangGraph · Vector Search · Streamlit · Docker · FastAPI
 
 ---
   
