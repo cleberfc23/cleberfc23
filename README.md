@@ -61,24 +61,3 @@ vector search · LLM evaluation
 
 ---
 
-## Background
-
-**ML Research · Kyoto University of Advanced Science** (2023–2025)
-Graduate-level research on LSTM architectures for short-term glucose prediction.
-Benchmarked recurrent and convolution-enhanced variants across 250+ patients (T1/T2
-diabetes cohorts). Identified and mitigated time-series data leakage revealing up to
-28% inflated NRMSE; improved cross-dataset generalisation by up to 14% MAE / 30% NRMSE.
-
-**Android Engineer · JIB, France** (2019–2023)
-Production delivery of assistive smart home Android applications (Kotlin, Jetpack
-Compose, MVVM, IoT/Tuya SDK). Deployed across France, Belgium, and Switzerland —
-3,000+ users, 1,000+ households, ~40 healthcare institutions.
-
----
-
-## Open to Opportunities
-
-Available for **remote roles based in Poland**.
-Based in Brazil · open to relocation discussions.
-
-[LinkedIn](https://www.linkedin.com/in/cleberfc23/) · cleberfc23@gmail.com
