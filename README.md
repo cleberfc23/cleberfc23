@@ -8,8 +8,6 @@ of Advanced Science (healthcare AI, time series forecasting, LSTM architectures)
 Four years of production Android engineering at a French assistive technology company,
 deploying systems used by 3,000+ users across France, Belgium, and Switzerland.
 
-Currently building production-oriented AI systems under **Iskra Labs**, an independent
-engineering initiative bridging applied AI research with industry-aligned, production-ready practices.
 
 Olá! 🇧🇷 · Cześć! 🇵🇱 · こんにちは! 🇯🇵 · ¡Hola! 🇪🇸
 
