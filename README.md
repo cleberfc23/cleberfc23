@@ -6,7 +6,7 @@ ML Engineer with a background spanning production software delivery, applied res
 and AI systems development. Two years of graduate-level ML research at Kyoto University
 of Advanced Science (healthcare AI, time series forecasting, LSTM architectures) in Japan.
 Four years of production Android engineering at a French assistive technology company,
-deploying systems used by 3,000+ users across France, Belgium, and Switzerland.
+deploying systems used by 3,000+ users across Europe.
 
 
 Olá! 🇧🇷 · Cześć! 🇵🇱 · こんにちは! 🇯🇵 · ¡Hola! 🇪🇸
